@@ -56,7 +56,7 @@ E.g., cd MessageDirectoryApp
 npm install
 4.        Start the Android emulator (E.g., Pixel 6)
 5.        Run the application using the below command in Terminal->Bash
-npm run Android
+npm run android
 The application will launch on the Android emulator.
  
 Screenshots
