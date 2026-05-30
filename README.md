@@ -1,6 +1,6 @@
 # MessageDirectoryApp
 Course: (2026S) COMP-5450-SA - Mobile Programming
-Exercise 2: REACT NATIVE MESSAGES DIRECTORY
+Exercise 3: REACT NATIVE MESSAGES DIRECTORY
 Submitted by: Saravanan Thiruvengadam (1340909)
 GitHub URL: https://github.com/achatessaran/MessageDirectoryApp
  
